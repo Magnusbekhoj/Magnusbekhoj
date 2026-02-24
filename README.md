@@ -51,5 +51,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Magnusbekhoj/TechnoVand/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Magnusbekhoj/TechnoVand/output/snake.svgg" />
 </p>
