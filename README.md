@@ -47,3 +47,7 @@
 <p align="center">
   <i>“Not force it. Make it fun”</i>
 </p>
+
+
+
+![snake](https://raw.githubusercontent.com/Magnusbekhoj/Magnusbekhoj/output/github-contribution-grid-snake.svg)
