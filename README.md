@@ -36,5 +36,3 @@
 - 🧩 Fixing
 - 🗄  Fixing
 - 🔥 Fixing
-
-![snake](https://github.com/Magnusbekhoj/Magnusbekhoj/blob/output/github-contribution-grid-snake.svg)
