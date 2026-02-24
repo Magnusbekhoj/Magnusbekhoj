@@ -50,4 +50,6 @@
 
 
 
-![snake](https://raw.githubusercontent.com/Magnusbekhoj/TechnoVand/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Magnusbekhoj/Magnusbekhoj/output/github-contribution-grid-snake.svg" />
+</p>
