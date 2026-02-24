@@ -22,7 +22,7 @@
 ## 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magnusbekhoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-Magnusbekhoj.vercel.app/api?username=Magnusbekhoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
