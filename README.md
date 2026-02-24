@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/>
 </p>
 
 ---
@@ -22,18 +21,18 @@
 ## 🧠 System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Magnusbekhoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=Magnusbekhoj&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
 ## 🌃 Current Mission
 
-- ⚡ Building high-performance backend systems
-- 🧩 Crafting full-stack applications
-- 🗄 Designing scalable MSSQL architectures
-- 🔥 Pushing code past its limits
+- ⚡ Fixing
+- 🧩 Fixing
+- 🗄Fixing
+- 🔥 Fixing
