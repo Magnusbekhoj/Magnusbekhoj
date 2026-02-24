@@ -1,40 +1,58 @@
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff00ff">
-        <animate attributeName="stop-color" values="#ff00ff;#00ffff;#ff00ff" dur="6s" repeatCount="indefinite"/>
+    <!-- Animated Cyan Gradient -->
+    <linearGradient id="cyanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff">
+        <animate attributeName="stop-color"
+                 values="#00f5ff;#00c3ff;#00f5ff"
+                 dur="6s"
+                 repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#00ffff">
-        <animate attributeName="stop-color" values="#00ffff;#ff00ff;#00ffff" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#00c3ff">
+        <animate attributeName="stop-color"
+                 values="#00c3ff;#00f5ff;#00c3ff"
+                 dur="6s"
+                 repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <!-- Glow Effect -->
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <rect width="100%" height="100%" fill="#0a0a0f"/>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0a0f14"/>
 
-  <text x="50%" y="50%" text-anchor="middle"
-        font-size="48"
+  <!-- Subtle Grid -->
+  <g stroke="#0ff" stroke-opacity="0.05">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200"/>
+  </g>
+
+  <!-- Name -->
+  <text x="50%" y="48%" text-anchor="middle"
+        font-size="56"
         font-family="monospace"
-        fill="url(#neonGradient)"
-        filter="url(#glow)">
-    Magnus Svane Bekhøj
+        fill="url(#cyanGradient)"
+        filter="url(#neonGlow)">
+    CHASI
   </text>
 
-  <text x="50%" y="75%" text-anchor="middle"
+  <!-- Subtitle -->
+  <text x="50%" y="70%"
+        text-anchor="middle"
         font-size="20"
         font-family="monospace"
-        fill="#00ffff">
-    Full Stack Developer | Kinda 
-    Still in School
+        fill="#00f5ff"
+        opacity="0.85">
+    Developer • JavaScript • Java • C# • MSSQL
+    Stil in school
   </text>
 
 </svg>
