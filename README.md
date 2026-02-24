@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <i>“Make it fun”</i>
+  <i>“Code should feel like precision engineering.”</i>
 </p>
