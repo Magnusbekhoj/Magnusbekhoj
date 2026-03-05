@@ -32,7 +32,7 @@
 ---
 
 ## 🌐 Current Focus
--- School
+-- 🏫School
 ---
 
 <p align="center">
