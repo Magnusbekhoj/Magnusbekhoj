@@ -32,12 +32,7 @@
 ---
 
 ## 🌐 Current Focus
-
-- ⚙️ Fixing
-- 🧠 Fixing
-- 💾 Fixing
-- 🚀 Fixing
-
+-- School
 ---
 
 <p align="center">
